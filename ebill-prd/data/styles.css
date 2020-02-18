@@ -12,7 +12,11 @@
 }
 .box_1 {
 }
+.box_2 {
+}
 .box_3 {
+}
+.image {
 }
 .heading_1 {
   font-family:'Arial Normal', 'Arial';
@@ -58,9 +62,18 @@
 .paragraph {
   text-align:left;
 }
+.line {
+}
 .form_hint {
   color:#999999;
 }
 .form_disabled {
+}
+.flow_shape {
+}
+.tree_node {
+  text-align:left;
+}
+.icon {
 }
 textarea, select, input, button { outline: none; }
